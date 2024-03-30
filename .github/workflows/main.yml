@@ -1,4 +1,4 @@
-name: Cypress Docker Push
+name: ECS Docker Image Push
 on: 
   push: 
     branches: [ "master" ]
